@@ -1,4 +1,4 @@
-## Welcome to Rongster Pages
+## Welcome to Rongster
 
 You can use the [editor on GitHub](https://github.com/rongster/Rongster.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
